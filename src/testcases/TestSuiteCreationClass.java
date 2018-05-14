@@ -7,7 +7,8 @@ import org.junit.runners.Suite;
 @Suite.SuiteClasses({
         FirstJUnitTestClass.class,
         SecondJUnitTestClass.class,
-        AssertionExampleClass.class
+        AssertionExampleClass.class,
+        ParameterizedTest.class
 })
 public class TestSuiteCreationClass {
 
