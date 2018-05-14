@@ -5,7 +5,6 @@ import org.junit.Rule;
 import org.junit.Test;
 import org.junit.rules.ErrorCollector;
 
-import javax.print.DocFlavor;
 
 public class AssertionExampleClass {
 
