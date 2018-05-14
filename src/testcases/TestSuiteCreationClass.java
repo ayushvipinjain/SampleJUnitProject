@@ -6,7 +6,8 @@ import org.junit.runners.Suite;
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
         FirstJUnitTestClass.class,
-        SecondJUnitTestClass.class
+        SecondJUnitTestClass.class,
+        AssertionExampleClass.class
 })
 public class TestSuiteCreationClass {
 
